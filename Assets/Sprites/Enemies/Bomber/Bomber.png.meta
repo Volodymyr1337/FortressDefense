@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: b0a93a2bedca995449396f74262d31e2
+timeCreated: 1531317009
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bomber_Die_000
+    21300002: Bomber_Die_001
+    21300004: Bomber_Die_002
+    21300006: Bomber_Die_003
+    21300008: Bomber_Die_004
+    21300010: Bomber_Die_005
+    21300012: Bomber_Die_006
+    21300014: Bomber_Die_007
+    21300016: Bomber_Die_008
+    21300018: Bomber_Walk_000
+    21300020: Bomber_Walk_001
+    21300022: Bomber_Walk_002
+    21300024: Bomber_Walk_003
+    21300026: Bomber_Walk_004
+    21300028: Bomber_Walk_005
+    21300030: Bomber_Walk_006
+    21300032: Bomber_Walk_007
+    21300034: Bomber_Walk_008
+    21300036: Bomber_Walk_009
+    21300038: Bomber_Walk_010
+    21300040: Bomber_Walk_011
+    21300042: ThrowBomb_000
+    21300044: ThrowBomb_001
+    21300046: ThrowBomb_002
+    21300048: ThrowBomb_003
+    21300050: ThrowBomb_004
+    21300052: ThrowBomb_005
+    21300054: ThrowBomb_006
+    21300056: ThrowBomb_007
+    21300058: ThrowBomb_008
+    21300060: Bomb_Projectile
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bomb_Projectile
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Die_000
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1448
+        width: 230
+        height: 297
+      alignment: 9
+      pivot: {x: 0.79130435, y: 0.41750842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Die_001
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1751
+        width: 231
+        height: 296
+      alignment: 9
+      pivot: {x: 0.74458873, y: 0.47297296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Die_002
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1179
+        width: 224
+        height: 267
+      alignment: 9
+      pivot: {x: 0.73214287, y: 0.5280899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Die_003
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1502
+        width: 239
+        height: 247
+      alignment: 9
+      pivot: {x: 0.6736402, y: 0.6234818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Die_004
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1817
+        width: 257
+        height: 230
+      alignment: 9
+      pivot: {x: 0.6420233, y: 0.65652174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Die_005
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 625
+        width: 283
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5795053, y: 0.6635945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Die_006
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 977
+        width: 315
+        height: 200
+      alignment: 9
+      pivot: {x: 0.50793654, y: 0.685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Die_007
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1626
+        width: 326
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7195767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Die_008
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1304
+        width: 312
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5224359, y: 0.6938776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_000
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1132
+        width: 237
+        height: 297
+      alignment: 9
+      pivot: {x: 0.49156117, y: 0.53872055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_001
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1747
+        width: 231
+        height: 300
+      alignment: 9
+      pivot: {x: 0.46969697, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_002
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1109
+        width: 229
+        height: 304
+      alignment: 9
+      pivot: {x: 0.47379914, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_003
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1415
+        width: 226
+        height: 311
+      alignment: 9
+      pivot: {x: 0.46238938, y: 0.5080386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_004
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 439
+        width: 230
+        height: 306
+      alignment: 9
+      pivot: {x: 0.4673913, y: 0.5163399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_005
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 138
+        width: 226
+        height: 299
+      alignment: 9
+      pivot: {x: 0.48451328, y: 0.5250836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_006
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1431
+        width: 241
+        height: 303
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5214521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_007
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 761
+        width: 233
+        height: 305
+      alignment: 9
+      pivot: {x: 0.49570817, y: 0.52131146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_008
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 232
+        height: 307
+      alignment: 9
+      pivot: {x: 0.49353448, y: 0.5179153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_009
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1736
+        width: 216
+        height: 311
+      alignment: 9
+      pivot: {x: 0.4513889, y: 0.51446944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_010
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1728
+        width: 220
+        height: 319
+      alignment: 9
+      pivot: {x: 0.4431818, y: 0.5015674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Bomber_Walk_011
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 437
+        width: 224
+        height: 308
+      alignment: 9
+      pivot: {x: 0.46651787, y: 0.5194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ThrowBomb_000
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 810
+        width: 238
+        height: 297
+      alignment: 9
+      pivot: {x: 0.45168066, y: 0.5858586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ThrowBomb_001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 747
+        width: 242
+        height: 314
+      alignment: 9
+      pivot: {x: 0.4235537, y: 0.56050956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ThrowBomb_002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1063
+        width: 196
+        height: 319
+      alignment: 9
+      pivot: {x: 0.27295917, y: 0.54858935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ThrowBomb_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1713
+        width: 191
+        height: 334
+      alignment: 9
+      pivot: {x: 0.20157067, y: 0.52395207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ThrowBomb_004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1384
+        width: 203
+        height: 327
+      alignment: 9
+      pivot: {x: 0.317734, y: 0.470948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ThrowBomb_005
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1068
+        width: 232
+        height: 314
+      alignment: 9
+      pivot: {x: 0.4676724, y: 0.46496814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ThrowBomb_006
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 171
+        width: 270
+        height: 289
+      alignment: 9
+      pivot: {x: 0.57592595, y: 0.58131486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ThrowBomb_007
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 844
+        width: 273
+        height: 286
+      alignment: 9
+      pivot: {x: 0.5989011, y: 0.62237763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: ThrowBomb_008
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 462
+        width: 259
+        height: 297
+      alignment: 9
+      pivot: {x: 0.5501931, y: 0.5959596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

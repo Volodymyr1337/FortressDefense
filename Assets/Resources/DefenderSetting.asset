@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 256b0357b600d7c41879bd8ded8480f8, type: 3}
+  m_Name: DefenderSetting
+  m_EditorClassIdentifier: 
+  AttackSpeed: 1
+  Experience: 0
+  AttackValue: 10
+  StartLevel: 0
+  DefenderLevels:
+  - UnitSprite: {fileID: 21300000, guid: 2d3c2ff0ee553bd418b41b2bf1901a22, type: 3}
+    UnitPrefab: {fileID: 1656442420996194, guid: 7d38319b3ae5b0942babc35d1953d2d8,
+      type: 2}
+    ExpToNextLvl: 100
+    AtkValue: 15
+  - UnitSprite: {fileID: 21300000, guid: b9715bef442aecf43b48ca4ca9b70efb, type: 3}
+    UnitPrefab: {fileID: 1867058513205372, guid: f163c790ea305ee4f883f8d2eeab4067,
+      type: 2}
+    ExpToNextLvl: 250
+    AtkValue: 20
+  - UnitSprite: {fileID: 21300000, guid: 6677c6e2060783244995bc95de385ca0, type: 3}
+    UnitPrefab: {fileID: 1834695942947198, guid: b26838497f8ca764aafda7481400c992,
+      type: 2}
+    ExpToNextLvl: 500
+    AtkValue: 30

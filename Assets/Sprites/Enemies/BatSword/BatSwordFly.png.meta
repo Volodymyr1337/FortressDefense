@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 1b2777457ad96c744907d2648796c2b7
+timeCreated: 1531316847
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BatSword_Fly_000
+    21300002: BatSword_Fly_001
+    21300004: BatSword_Fly_002
+    21300006: BatSword_Fly_003
+    21300008: BatSword_Fly_004
+    21300010: BatSword_Fly_005
+    21300012: BatSword_Fly_006
+    21300014: BatSword_Fly_007
+    21300016: BatSword_Fly_008
+    21300018: BatSword_Fly_009
+    21300020: BatSword_Fly_010
+    21300022: BatSword_Fly_011
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BatSword_Fly_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1521
+        width: 416
+        height: 526
+      alignment: 9
+      pivot: {x: 0.5036058, y: 0.4610266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_001
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1580
+        width: 415
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5048193, y: 0.5171306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_002
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1167
+        width: 411
+        height: 411
+      alignment: 9
+      pivot: {x: 0.50243306, y: 0.5924574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1145
+        width: 410
+        height: 374
+      alignment: 9
+      pivot: {x: 0.49634147, y: 0.6671123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_004
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 786
+        width: 402
+        height: 379
+      alignment: 9
+      pivot: {x: 0.49626866, y: 0.6794195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 760
+        width: 401
+        height: 383
+      alignment: 9
+      pivot: {x: 0.4875312, y: 0.6853786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_006
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 389
+        width: 398
+        height: 395
+      alignment: 9
+      pivot: {x: 0.4786432, y: 0.6797468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 760
+        width: 401
+        height: 383
+      alignment: 9
+      pivot: {x: 0.4875312, y: 0.6853786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_008
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 786
+        width: 402
+        height: 379
+      alignment: 9
+      pivot: {x: 0.49626866, y: 0.6794195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_009
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1145
+        width: 410
+        height: 374
+      alignment: 9
+      pivot: {x: 0.49634147, y: 0.6671123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_010
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1167
+        width: 411
+        height: 411
+      alignment: 9
+      pivot: {x: 0.50243306, y: 0.5924574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Fly_011
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1580
+        width: 415
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5048193, y: 0.5171306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

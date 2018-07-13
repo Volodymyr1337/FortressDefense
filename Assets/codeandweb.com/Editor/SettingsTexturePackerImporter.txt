@@ -1,0 +1,36 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Sprites/Enemies/BatSword/BatSwordAtk.tpsheet
+- Assets/Sprites/Enemies/BatSword/BatSwordDeath.tpsheet
+- Assets/Sprites/Enemies/BatSword/BatSwordFly.tpsheet
+- Assets/Sprites/Enemies/Bomber/Bomber.tpsheet
+- Assets/Sprites/Enemies/Onager/OnagerDeath.tpsheet
+- Assets/Sprites/Enemies/Onager/OnagerWalkNAtk.tpsheet
+- Assets/Sprites/FortStages.tpsheet
+- Assets/Sprites/Game UI/GameUi.tpsheet
+- Assets/Sprites/Main Menu/MainMenu.tpsheet
+- Assets/Sprites/Splash.tpsheet
+textureFileNames:
+- Assets/Sprites/Enemies/BatSword/BatSwordAtk.png
+- Assets/Sprites/Enemies/BatSword/BatSwordDeath.png
+- Assets/Sprites/Enemies/BatSword/BatSwordFly.png
+- Assets/Sprites/Enemies/Bomber/Bomber.png
+- Assets/Sprites/Enemies/Onager/OnagerDeath.png
+- Assets/Sprites/Enemies/Onager/OnagerWalkNAtk.png
+- Assets/Sprites/FortStages.png
+- Assets/Sprites/Game UI/GameUi.png
+- Assets/Sprites/Main Menu/MainMenu.png
+- Assets/Sprites/Splash.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

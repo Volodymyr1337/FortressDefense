@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 2b0aa8564bd10a74fba33399a287d839
+timeCreated: 1531316850
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BatSword_Hit_000
+    21300002: BatSword_Hit_001
+    21300004: BatSword_Hit_002
+    21300006: BatSword_Hit_003
+    21300008: BatSword_Hit_004
+    21300010: BatSword_Hit_005
+    21300012: BatSword_Hit_006
+    21300014: BatSword_Hit_007
+    21300016: BatSword_Hit_008
+    21300018: BatSword_Hit_009
+    21300020: BatSword_Hit_010
+    21300022: BatSword_Hit_011
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BatSword_Hit_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 579
+        width: 383
+        height: 444
+      alignment: 9
+      pivot: {x: 0.24934725, y: 0.34234235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_001
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 621
+        width: 368
+        height: 402
+      alignment: 9
+      pivot: {x: 0.29755434, y: 0.4079602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_002
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 348
+        width: 378
+        height: 345
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.3884058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_003
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 398
+        width: 454
+        height: 344
+      alignment: 9
+      pivot: {x: 0.60022026, y: 0.35755813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_004
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 94
+        width: 420
+        height: 376
+      alignment: 9
+      pivot: {x: 0.6059524, y: 0.4574468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_005
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 129
+        width: 336
+        height: 453
+      alignment: 9
+      pivot: {x: 0.51339287, y: 0.58719647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_006
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 388
+        width: 269
+        height: 498
+      alignment: 9
+      pivot: {x: 0.36988848, y: 0.6506024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_007
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 258
+        width: 364
+        height: 445
+      alignment: 9
+      pivot: {x: 0.50137365, y: 0.6247191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_008
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 691
+        width: 432
+        height: 332
+      alignment: 9
+      pivot: {x: 0.5428241, y: 0.49698794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_009
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 692
+        width: 477
+        height: 331
+      alignment: 9
+      pivot: {x: 0.47903565, y: 0.4954683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_010
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 202
+        width: 341
+        height: 371
+      alignment: 9
+      pivot: {x: 0.3181818, y: 0.4393531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Hit_011
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 627
+        width: 355
+        height: 396
+      alignment: 9
+      pivot: {x: 0.26619717, y: 0.4090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

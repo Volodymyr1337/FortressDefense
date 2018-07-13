@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 6e48fbb7d5c38314dabc6d47d4ec8ec4
+timeCreated: 1531316853
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BatSword_Death_000
+    21300002: BatSword_Death_001
+    21300004: BatSword_Death_002
+    21300006: BatSword_Death_003
+    21300008: BatSword_Death_004
+    21300010: BatSword_Death_005
+    21300012: BatSword_Death_006
+    21300014: BatSword_Death_007
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BatSword_Death_000
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 130
+        width: 392
+        height: 449
+      alignment: 9
+      pivot: {x: 0.47066328, y: 0.49554566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Death_001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 466
+        height: 538
+      alignment: 9
+      pivot: {x: 0.4581545, y: 0.5213755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Death_002
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 780
+        width: 545
+        height: 599
+      alignment: 9
+      pivot: {x: 0.4761468, y: 0.5083473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Death_003
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1381
+        width: 609
+        height: 666
+      alignment: 9
+      pivot: {x: 0.4770115, y: 0.5112613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Death_004
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1316
+        width: 675
+        height: 731
+      alignment: 9
+      pivot: {x: 0.48518518, y: 0.5095759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Death_005
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 582
+        width: 676
+        height: 731
+      alignment: 9
+      pivot: {x: 0.48594674, y: 0.5095759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Death_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 581
+        width: 675
+        height: 732
+      alignment: 9
+      pivot: {x: 0.48518518, y: 0.5088798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BatSword_Death_007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1315
+        width: 680
+        height: 732
+      alignment: 9
+      pivot: {x: 0.48897058, y: 0.5088798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

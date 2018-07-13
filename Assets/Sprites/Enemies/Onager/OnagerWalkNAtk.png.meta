@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 3580b6b2fb4cfa549a32755c90d6e180
+timeCreated: 1531317258
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Onager_Attack_000
+    21300002: Onager_Attack_001
+    21300004: Onager_Attack_002
+    21300006: Onager_Attack_003
+    21300008: Onager_Attack_004
+    21300010: Onager_Attack_005
+    21300012: Onager_Walk_000
+    21300014: Onager_Walk_001
+    21300016: Onager_Walk_002
+    21300018: Onager_Walk_003
+    21300020: Onager_Walk_004
+    21300022: Onager_Walk_005
+    21300024: Onager_Walk_006
+    21300026: Onager_Walk_007
+    21300028: Onager_Walk_008
+    21300030: Onager_Walk_009
+    21300032: Onager_Walk_010
+    21300034: Onager_Walk_011
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Onager_Attack_000
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1464
+        width: 669
+        height: 293
+      alignment: 9
+      pivot: {x: 0.47832587, y: 0.51194537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Attack_001
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1756
+        width: 676
+        height: 291
+      alignment: 9
+      pivot: {x: 0.49260354, y: 0.5154639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Attack_002
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1759
+        width: 676
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5118343, y: 0.5173611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Attack_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1466
+        width: 666
+        height: 284
+      alignment: 9
+      pivot: {x: 0.524024, y: 0.5246479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Attack_004
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1467
+        width: 668
+        height: 287
+      alignment: 9
+      pivot: {x: 0.51497006, y: 0.5261324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Attack_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1752
+        width: 676
+        height: 295
+      alignment: 9
+      pivot: {x: 0.50147927, y: 0.5118644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_000
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 575
+        width: 660
+        height: 292
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51541096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_001
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 574
+        width: 660
+        height: 291
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50687283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_002
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1167
+        width: 660
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49161074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1166
+        width: 660
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49496645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_004
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 285
+        width: 660
+        height: 287
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47560975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_005
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1164
+        width: 660
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51510066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 281
+        width: 660
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51384085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 869
+        width: 660
+        height: 295
+      alignment: 9
+      pivot: {x: 0.5, y: 0.520339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_008
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 867
+        width: 660
+        height: 295
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5169492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_009
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 282
+        width: 660
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 572
+        width: 660
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5102389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Onager_Walk_011
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 869
+        width: 660
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5152027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
